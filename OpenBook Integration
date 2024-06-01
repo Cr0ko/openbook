@@ -1,0 +1,4 @@
+import { Market, OpenOrders } from 'openbook-dex';
+
+const openBookMarket = new Market(...);
+// Swap logic with OpenBook
